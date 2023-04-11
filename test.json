@@ -1,3 +1,6 @@
 {
-	"dati": "fuffa"
+	"dati": "fuffa",
+	"blue-config": {
+		"url": "gitlab.io"
+	}
 }
