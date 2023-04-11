@@ -2,5 +2,8 @@
 	"dati": "fuffa",
 	"blue-config": {
 		"url": "gitlab.io"
+	},
+	"red-config": {
+		"url": "github.com"
 	}
 }
