@@ -6,5 +6,6 @@
 	"red-config": {
 		"url": "github.com"
 	},
-	"blue-fuffa": 123
+	"blue-fuffa": 123,
+	"pink-fuffa": 456
 }
