@@ -1,3 +1,6 @@
 {
-	"dati": "fuffa"
+	"dati": "fuffa",
+	"red-config": {
+		"url": "github.com"
+	}
 }
