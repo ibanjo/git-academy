@@ -1,3 +1,4 @@
 Some text
 Written on green
 Other from master
+Another line on master
